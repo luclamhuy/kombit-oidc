@@ -24,7 +24,7 @@ export PATH=$JAVA_HOME/bin:$PATH
 #### Configure Environment
 cd to root folder, open powershell and run: 
 ```bash
-$env:OIDC_CLIENT_ID = "wpf-application"
+$env:OIDC_CLIENT_ID = "java-application"
 $env:OIDC_CLIENT_SECRET = "secret-key-4567"
 $env:OIDC_ISSUER="https://kombitva322.safewhere.local/runtime/oauth2"
 ```
